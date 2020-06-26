@@ -5,7 +5,9 @@ A Task Logger made with React and Redux, using a JSON server. In this Logger, yo
 - Add tasks, solicitations and any kind of information that needs to be logged;
 - Each log have a Message, who made it, the time created, an ID and if it need attention;
 - The logs are a CRUD, so you can Add, Edit or remove from the JSON server;
-- You can use the Search Bar to search for any information inside the Log (Message, the name of the creator, ID and date)
+- You can use the Search Bar to search for any information inside the Log (Message, the name of the creator, ID and date); 
+- The menus to add New Technician and to List them, appear when you hover the Plus button in the bottom;
+- To add a new just click the Plus button.
 
 # Screenshots
 
